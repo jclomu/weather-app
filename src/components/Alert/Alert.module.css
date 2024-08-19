@@ -1,0 +1,12 @@
+.alert {
+    text-align: center;
+    margin: 1rem auto;
+    text-transform: uppercase;
+    font-weight: 900;
+    background-color: var(--alert);
+    color: var(--black);
+    padding: 1rem;
+    width: 95%;
+    transition: all ease .3s;
+    border-radius: 1rem;
+}
